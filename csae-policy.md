@@ -4,7 +4,7 @@
 Kernels is committed to creating a safe and positive online environment. We have a **zero-tolerance policy** towards any form of **child sexual abuse, exploitation, or harm** on our platform. Our policies align with **Google Play's Child Safety Standards**, and we actively monitor, report, and take enforcement action against any violations.
 
 ## Reporting & Removal
-Any content, user, or activity that violates our **Child Safety Standards** will be **immediately removed and reported** to the relevant authorities. We encourage users to report suspicious activity through the in-app reporting system or via **[email@example.com]**.
+Any content, user, or activity that violates our **Child Safety Standards** will be **immediately removed and reported** to the relevant authorities. We encourage users to report suspicious activity through the in-app reporting system or via **kernels.info1@gmail.com**.
 
 ## Prohibited Activities
 Kernels strictly prohibits:
